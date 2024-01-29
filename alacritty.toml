@@ -1,0 +1,351 @@
+import = [
+    "~/.config/alacritty/themes/themes/solarized_dark.toml"
+]
+
+[bell]
+duration = 20
+
+[cursor]
+thickness = 0.2
+vi_mode_style = "Block"
+
+[font]
+size = 13
+
+[font.bold]
+family = "Hack Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Hack Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Hack Nerd Font"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "V"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "C"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "Quit"
+key = "Q"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "Quit"
+key = "W"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "Equals"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "Minus"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "ResetFontSize"
+key = "Key0"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "ScrollToBottom"
+key = "End"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToTop"
+key = "Home"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "U"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "D"
+mods = "Super"
+
+[[keyboard.bindings]]
+action = "ToggleViMode"
+key = "LBracket"
+mods = "Control|Alt"
+
+[[keyboard.bindings]]
+action = "ToggleViMode"
+key = "Q"
+mode = "Vi"
+
+[[keyboard.bindings]]
+action = "First"
+key = "H"
+mode = "Vi"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "Last"
+key = "L"
+mode = "Vi"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "P"
+mods = "Control|Alt"
+
+[[keyboard.bindings]]
+chars = "\u001Bd"
+key = "D"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001Bz"
+key = "Z"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001BC"
+key = "C"
+mods = "Alt|Shift"
+
+[[keyboard.bindings]]
+chars = "\u001Bx"
+key = "X"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001Bs"
+key = "S"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001B;"
+key = "Colon"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001B,"
+key = "Comma"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001B."
+key = "Period"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001B-"
+key = "Minus"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001B("
+key = "Key9"
+mods = "Alt|Shift"
+
+[[keyboard.bindings]]
+chars = "\u001B)"
+key = "Key0"
+mods = "Alt|Shift"
+
+#[[keyboard.bindings]]
+#chars = "\u001B`"
+#key = "Grave"
+#mods = "Alt"
+
+[mouse]
+hide_when_typing = true
+
+[selection]
+save_to_clipboard = true
+
+[window]
+dynamic_padding = true
+opacity = 0.95
+
+[window.padding]
+x = 0
+y = 0
